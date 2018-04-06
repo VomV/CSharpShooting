@@ -1,0 +1,11 @@
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code3\bin\Debug\Code3.exe.config
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code3\bin\Debug\Code3.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code3\bin\Debug\Code3.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code3\obj\Debug\Code3.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code3\obj\Debug\Code3.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\bin\Debug\Code3.exe.config
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\bin\Debug\Code3.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\bin\Debug\Code3.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\obj\Debug\Code3.csprojResolveAssemblyReference.cache
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\obj\Debug\Code3.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code3\obj\Debug\Code3.pdb
