@@ -1,0 +1,6 @@
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\bin\Debug\Test.exe.config
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\bin\Debug\Test.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\bin\Debug\Test.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\obj\Debug\Test.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Test\obj\Debug\Test.pdb

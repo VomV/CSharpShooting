@@ -1,0 +1,6 @@
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\bin\Debug\Code6.exe.config
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\obj\Debug\Code6.csprojResolveAssemblyReference.cache
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\bin\Debug\Code6.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\bin\Debug\Code6.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\obj\Debug\Code6.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code6\obj\Debug\Code6.pdb
