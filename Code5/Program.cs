@@ -42,6 +42,7 @@ namespace Code5
             FN = FN - SN;
 
             Console.WriteLine("Swapped Numbers: FN = {0}, SN = {1}", FN, SN);
+
         }
     }
 }

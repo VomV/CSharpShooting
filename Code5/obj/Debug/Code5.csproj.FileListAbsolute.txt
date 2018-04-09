@@ -6,3 +6,5 @@ C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\Code5\obj\Debug\Code5.pdb
 C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code5\bin\Debug\Code5.exe.config
 C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code5\obj\Debug\Code5.exe
 C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code5\obj\Debug\Code5.pdb
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code5\bin\Debug\Code5.exe
+C:\Users\Vivek\Desktop\Learning\C#\CSharpPracticeCodes\CSharpShooting\Code5\bin\Debug\Code5.pdb
