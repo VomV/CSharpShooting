@@ -12,7 +12,8 @@ namespace Test
             int a = Math.Abs(-8);
             Console.WriteLine(a);
 
-            for (int i=1; i<100; i=i+2)
+            int[] arr = new int[10];
+            foreach (int i in arr)
             {
                 Console.WriteLine(i);
             }
